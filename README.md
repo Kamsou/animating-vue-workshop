@@ -22,7 +22,7 @@ For sections covering Nuxt, we will be using the directories listed in the Nuxt 
 All slides have password `vue!`
 
 ## Collections:
-* [Vue Animation Collection](http://codepen.io/collection/XvBQJQ/)
+* [Vue Animation Collection](https://codepen.io/collection/XQGkeV/)
 * [SVG and CSS/GreenSock CodePen Collection](http://codepen.io/collection/XvBQJQ/)
 
 Included in this repo are some very basic starter kits. 
