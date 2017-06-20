@@ -22,15 +22,14 @@ For sections covering Nuxt, we will be using the directories listed in the Nuxt 
 All slides have password `vue!`
 
 ## Collections:
+* [Vue Animation Collection](http://codepen.io/collection/XvBQJQ/)
 * [SVG and CSS/GreenSock CodePen Collection](http://codepen.io/collection/XvBQJQ/)
-* [Intro to D3 Collection](http://codepen.io/collection/XKgVVV/)
-* [Mo.js Collection](http://codepen.io/collection/XOEKow/)
 
 Included in this repo are some very basic starter kits. 
 
 ## Resources to find free SVG online
 SVG Resources:
-* [http://icomoon.io/](Icomoon.io)
+* [http://icomoon.io/](Icomoon)
 * [https://thenounproject.com/](The Noun Project)
 * [http://www.freepik.com/](Freepik)
 
