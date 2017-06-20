@@ -29,9 +29,9 @@ Included in this repo are some very basic starter kits.
 
 ## Resources to find free SVG online
 SVG Resources:
-* [http://icomoon.io/](Icomoon)
-* [https://thenounproject.com/](The Noun Project)
-* [http://www.freepik.com/](Freepik)
+* [Icomoon](http://icomoon.io/)
+* [The Noun Project](https://thenounproject.com/)
+* [Freepik](http://www.freepik.com/)
 
 ## GreenSock Resources
 [GreenSock Docs](http://greensock.com/docs/#/HTML5/), [Forums](http://greensock.com/forums/), and [Easing Visualizer](http://greensock.com/ease-visualizer).
