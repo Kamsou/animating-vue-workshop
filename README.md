@@ -12,39 +12,49 @@ Here is the codepen debugger [chrome extension](https://chrome.google.com/websto
 For sections covering Nuxt, we will be using the directories listed in the Nuxt section below as well as their directories, prefixed with `nuxt-` here.
 
 ## Slides:
-* [Animating Vue 1](http://slides.com/sdrasner/vue-animation1?token=aXKXDj9N)
-* [Animating Vue 2](http://slides.com/sdrasner/vue-animation-2?token=-TKEq9rB)
-* [Animating Vue 3](http://slides.com/sdrasner/vue-animation3?token=ktXZY2K0)
-* [Animating Vue 4](http://slides.com/sdrasner/vue-animation-4-67?token=-1aJS9Kb)
-* [Animating Vue 5](http://slides.com/sdrasner/vue-animation-5?token=gvF0a7_2)
-* [Animating Vue 6](http://slides.com/sdrasner/vue-animation-6?token=BEVxYSA8)
+
+* [Principles of UI/UX Animation](http://slides.com/sdrasner/vue-animation1?token=aXKXDj9N)
+* [Transition Component](http://slides.com/sdrasner/vue-animation-2?token=-TKEq9rB)
+* [Transition-Group && Class/Style Bindings](http://slides.com/sdrasner/animating-vue-35?token=Vhyy-VPd)
+* [Basics of TweenMax](http://slides.com/sdrasner/vue-animation3?token=ktXZY2K0)
+* [Transitioning State](http://slides.com/sdrasner/animating-vue-45?token=0jz5DR4P)
+* [SVG Animation](http://slides.com/sdrasner/vue-animation-4-67?token=-1aJS9Kb)
+* [Nuxt Page Transitions](http://slides.com/sdrasner/vue-animation-5?token=gvF0a7_2)
+* [Custom Directives && Animation](http://slides.com/sdrasner/vue-animation-6?token=BEVxYSA8)
 
 All slides have password `vue!`
 
 ## Collections:
+
 * [Vue Animation Collection](https://codepen.io/collection/XQGkeV/)
 * [SVG and CSS/GreenSock CodePen Collection](http://codepen.io/collection/XvBQJQ/)
 
-Included in this repo are some very basic starter kits. 
+Included in this repo are some very basic starter kits.
 
 ## Resources to find free SVG online
+
 SVG Resources:
+
 * [Icomoon](http://icomoon.io/)
 * [The Noun Project](https://thenounproject.com/)
 * [Freepik](http://www.freepik.com/)
 
 ## GreenSock Resources
+
 [GreenSock Docs](http://greensock.com/docs/#/HTML5/), [Forums](http://greensock.com/forums/), and [Easing Visualizer](http://greensock.com/ease-visualizer).
 
 There are three directories you can use as GSAP starter kits:
+
 * basic-tween
 * basic-timeline
 * master-timeline
 
 ## Nuxt Resources
+
 [Nuxt Docs](https://nuxtjs.org/)
 
 There are three directories you can use as Nuxt starter kits:
+
 * nuxt-css-animation-starter
 * nuxt-js-animation-starter
 * nuxt-fixed-transition-modes
